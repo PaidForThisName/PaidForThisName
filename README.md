@@ -2,7 +2,7 @@
 
 CS @ [UT Dallas](https://www.utdallas.edu/), class of 2027. I ship products that put computer vision on real devices — phones and robots, not just notebooks.
 
-**Building [Nurrel](https://nurrel.shop)** · SWE/AI intern, Infosys InStep (iCETS) · Frisco, TX
+**Building [Nurrel](https://nurrel.shop)** · Prev SWE/AI intern, Infosys InStep (iCETS) · Frisco, TX
 
 [LinkedIn](https://www.linkedin.com/in/dinesh-janapati-142260309/) · [Email](mailto:dinesh.janapati2@gmail.com) · [Nurrel](https://nurrel.shop)
 
