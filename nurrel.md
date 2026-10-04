@@ -6,8 +6,6 @@
 
 I am building Nurrel: a mobile shopping app that turns one photo into a fit profile, maps that profile onto every retailer's own grading, and lets you see a piece on your body before you pay for it.
 
-This writeup is the product and systems view. Our lead designer, Sharmila, published a separate end-to-end design case study covering the interface and flows.
-
 ---
 
 ## The problem
