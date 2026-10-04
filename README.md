@@ -16,23 +16,17 @@ If you have five minutes, this is the work.
 
 I'm building [Nurrel](https://nurrel.shop): a mobile shopping app that takes your size from a photo, maps it across retailer grading, and lets you try a piece on your own body before you buy. One catalogue across 120+ retailers, virtual try-on, and a closet that can style what you already own with what you're considering.
 
-This is the main thing I'm shipping.
+**[Full writeup →](./nurrel.md)**
 
 ### Infosys InStep — vision on a Temi Sentry Robot
 
 Summer 2026 intern on the ICETS Emerging Technologies team. I built vision-based detection for a Temi Sentry Robot so it could read the room it was in — fire detection and glass-door detection — and connect that to a real robotics stack, not a demo reel.
 
-### Challenge Accepted Alarm
-
-An alarm you cannot dismiss until you finish a challenge: shake the phone, or clear a Pac-Man level. React, TypeScript, and Capacitor so it runs as a real iOS/Android app.
-
-[github.com/PaidForThisName/challenge-accepted-alarm](https://github.com/PaidForThisName/challenge-accepted-alarm)
-
 ---
 
 ## What I work in
 
-`TypeScript` `React Native` `React` `Python` `Java` `C++` `Computer Vision` `Capacitor`
+`TypeScript` `React Native` `React` `Python` `Java` `C++` `Computer Vision`
 
 I also spent almost three years at Varsity Tutors teaching college calculus and computer science. If I can explain it, I can build it.
 
